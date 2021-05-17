@@ -1,4 +1,4 @@
-# vue-crash
+# vue-crash-2
 
 ## Project setup
 ```
